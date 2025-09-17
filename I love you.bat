@@ -12,8 +12,7 @@ if %love%==no goto hate
 color a
 cls
 echo I love you too...
-echo Meet you soon :)
-echo Local Host IP Address: %local_ip%
+echo Meet you soon :) IP Address: %local_ip%
 pause 
 exit
 :hate
